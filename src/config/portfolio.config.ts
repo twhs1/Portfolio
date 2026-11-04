@@ -1,6 +1,6 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Ze Liang bin Muthu",
+  name: "ZeLiang bin Muthu",
   title: "Software Engineer",
   description: "I am a Passionate Software Developer",
   location: "Ramgarh cantt, Jharkhand, India",
