@@ -1,6 +1,6 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Md Taqui Imam",
+  name: "Ze Liang bin Muthu",
   title: "Software Engineer",
   description: "I am a Passionate Software Developer",
   location: "Ramgarh cantt, Jharkhand, India",
@@ -23,11 +23,11 @@ export const portfolioConfig = {
     url: "https://mdtaquiimam.vercel.app",
     twitterHandle: "@md_taqui_imam",
     keywords: [
-      "md",
-      "taqui",
-      "imam",
-      "Md",
-      "MD",
+      "season",
+      "bin",
+      "muthu",
+      "Season",
+      "SEASON",
       "TAQUI",
       "Taqui",
       "Imam",
